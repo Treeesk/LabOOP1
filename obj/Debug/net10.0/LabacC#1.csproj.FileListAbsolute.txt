@@ -12,3 +12,4 @@
 /Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.pdb
 /Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.genruntimeconfig.cache
 /Applications/LabacC#1/obj/Debug/net10.0/ref/LabacC#1.dll
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.sourcelink.json

@@ -5,7 +5,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <RootNamespace>LabacC_1</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Compile Include="Programm.cs" />
+    <Compile Include="BinaryTree.cs" />
+  </ItemGroup>
 </Project>
