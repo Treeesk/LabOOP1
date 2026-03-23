@@ -1,0 +1,14 @@
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.AssemblyInfoInputs.cache
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.AssemblyInfo.cs
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.csproj.CoreCompileInputs.cache
+/Applications/LabacC#1/bin/Debug/net10.0/LabacC#1
+/Applications/LabacC#1/bin/Debug/net10.0/LabacC#1.deps.json
+/Applications/LabacC#1/bin/Debug/net10.0/LabacC#1.runtimeconfig.json
+/Applications/LabacC#1/bin/Debug/net10.0/LabacC#1.dll
+/Applications/LabacC#1/bin/Debug/net10.0/LabacC#1.pdb
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.dll
+/Applications/LabacC#1/obj/Debug/net10.0/refint/LabacC#1.dll
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.pdb
+/Applications/LabacC#1/obj/Debug/net10.0/LabacC#1.genruntimeconfig.cache
+/Applications/LabacC#1/obj/Debug/net10.0/ref/LabacC#1.dll
